@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="01zFd8v6aE6r9eO49BnM3w" Reference="lDK1PMRvqEK69fjGKR_PFg/kVl9YfFBOUCS49y9ry4hyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" DesignTimeRectangle="809, 388, 39, 35" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl tag='I' /&gt;" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='I' type='' class='far fa-address-card card' aaname='{0}' check:text='{0}' /&gt;&quot;, EmployeeName)]" Guid="a435f01a-2db0-4dba-ad03-76d1ae3d4ac1" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="FuzzySelector" Version="V3" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="868, 388, 175, 35" ElementType="Text" FullSelectorArgument="&lt;webctrl class='name' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='name' tag='DIV' type='' aaname='Brad M Roberts' check:innerText='Brad M Roberts' /&gt;" Guid="4d5c4733-350e-4fd6-b9c4-8031e47baa7f" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9b83c3364d729de1dd62c236f49fb302.png" xmlns="">01Ukj7ccRmEm1tswZxrSF9w</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Brad M Roberts" Name="EmployeeName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

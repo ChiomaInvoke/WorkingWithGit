@@ -1,0 +1,13 @@
+﻿{
+  "Name": "User options",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "YL4BWVjUukWfmyINAWuJVw",
+  "Reference": "lDK1PMRvqEK69fjGKR_PFg/YL4BWVjUukWfmyINAWuJVw",
+  "ParentRef": "lDK1PMRvqEK69fjGKR_PFg/BLVCaC3100SzCFKJrpWgog",
+  "Created": "2024-07-08T21:07:00.575463Z",
+  "Updated": "2024-07-08T21:07:00.575463Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

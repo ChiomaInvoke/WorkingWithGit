@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="B0A2DPEIMkSjQWIBuLa6EA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="441, 315, 200, 46" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='                  Checks' parentid='dashmenu' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                  Checks' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' check:text='Checks' /&gt;" Guid="905f53eb-2445-4dc3-9c3f-0f03e2e6a5fe" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAMwAAAAyCAYAAAAQujSbAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACkSURBVHhe7dMxDQAwDMCw8efbu6PQ/LYUCHkzs5JuGUYKGUYKGUYKGUYKGUYKGUYKvQXODAOBYSAwDASGgcAwEBgGAsNAYBgIDAOBYSAwDASGgcAwEBgGAsNAYBgIDAOBYSAwDASGgcAwEBgGAsNAYBgIDAOBYSAwDASGgcAwEBgGAsNAYBgIDAOBYSAwDASGgcAwEBgGAsNAYBgIDAOBYeBs9wOsJSKL6YZu7gAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="57c72684173498a43f329d0663b9a74b.png" xmlns="">0I4q7hKdLK0mjiOFrEfxIzQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
